@@ -1,6 +1,0 @@
-
-<?php
-
-use src\Entity\AbstractEntity;
-
-class Property.php extends AbstractEntity {}

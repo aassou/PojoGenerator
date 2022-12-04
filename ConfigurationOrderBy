@@ -1,6 +1,0 @@
-
-<?php
-
-use src\Entity\AbstractEntity;
-
-class ConfigurationOrderBy.php extends AbstractEntity {}
