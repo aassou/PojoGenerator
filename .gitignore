@@ -1,5 +1,4 @@
 !src/Entity/AbstractEntity.php
-!src/Entity
 src/Entity/*
 vendor
 .idea
