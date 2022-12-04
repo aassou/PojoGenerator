@@ -1,0 +1,10 @@
+{
+    "name": "moaad/test-schema-generator",
+    "authors": [
+        {
+            "name": "mouad.aassou",
+            "email": "aassou.mouad@gmail.com"
+        }
+    ],
+    "require": {}
+}

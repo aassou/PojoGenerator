@@ -1,0 +1,6 @@
+
+<?php
+
+use src\Entity\AbstractEntity;
+
+class Companysystem.php extends AbstractEntity {}
